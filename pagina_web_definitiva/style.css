@@ -1,0 +1,62 @@
+body{
+    background-color: beige;
+margin-left: 25px;
+font-family: 'Dosis', sans-serif;
+justify-content:center ;
+text-align: center;
+
+  border-right: 3px solid black;
+  border-left: 3px solid black;
+}
+.contenedor{
+width: 80%;
+text-align: center;
+text-align: center;
+
+
+
+}
+.alineacion{
+margin-left: 25%;
+
+
+}
+
+
+.menu{
+font-size: xx-large;
+margin-top: 40px;
+
+}
+.log{
+width: 250px;
+height: 250px;
+
+
+
+}
+#barra{
+background-color: white;
+width: 125%;
+height: 125%;
+border-bottom: solid black;
+text-align: center;
+   
+}
+#lista1 li {
+  display:inline;
+  padding-right: 4%;
+ background-color:rgb(0, 160, 48);
+ margin-left: 1%;
+}
+a {
+ color:white;
+ text-decoration: none;
+}
+a:hover {
+ color:black;
+ background-color:rgb(0, 160, 48);
+}
+.separador {
+  color:white;
+}
